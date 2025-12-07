@@ -1,26 +1,59 @@
 <h1 align="center">Hi 👋, I'm Jamxon</h1>
-<h3 align="center">Backend developer from Uzbekistan</h3>
+<h3 align="center">Backend Developer | PHP (Laravel) | ERP Systems</h3>
 
-- 🔭 I’m currently working on [Vizzano ERP](https://vizzano-apparel.uz/)
+🔹 Passionate backend engineer focused on building scalable business solutions.  
+🔹 Experience in ERP, real-time attendance systems and warehouse management automation.  
+🔹 Strong knowledge in Laravel ecosystem, clean API structures, database architecture, logging & monitoring.
 
-- 🌱 I’m currently learning **Go**
+---
 
-- 💬 Ask me about **PHP(Laravel,Yii)**
+### 🚀 Current Work
+- **Backend Developer** at Vizzano Apparel  
+  Working on **Vizzano ERP**: production planning, attendance automation (Hikvision integration), warehouse management, salary calculation, PDF/Excel exporting, RESTful APIs, and more.
 
-- 📫 How to reach me **aliyevjamkhan499@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 📚 Currently Learning
+- **C# / .NET Core** to expand cross-platform backend capabilities
+
+---
+
+### 🛠 Tech Stack & Tools
+
+- **Backend:** PHP (Laravel, Yii2), REST API, OAuth/JWT  
+- **Database:** MySQL, MariaDB, PostgreSQL, SQLite  
+- **Servers & DevOps:** Nginx, Linux, Supervisor, Log Monitoring  
+- **Message & Real-Time:** WebSockets, TCP device communication  
+- **Other:** Git, Jira, Microservices concepts
+
 <p align="left">
-<a href="https://instagram.com/jamkhan.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jamkhan.dev" height="30" width="40" /></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamxon&show_icons=true&locale=en&layout=compact" alt="jamxon" /></p>
+### 🧩 Featured Projects
+- **Vizzano ERP** – Textile factory management system (large-scale)
+- **Hikvision Attendance Integration** – real-time TCP event syncing into Laravel backend
+- **Warehouse Module** – stock balance tracking, multi-currency operations, analytics & exports
+- **Supplier & Order Payment System** – procurement workflow automation
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jamxon&show_icons=true&locale=en" alt="jamxon" /></p>
+*(More projects available in pinned repositories 👇)*
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamxon&" alt="jamxon" /></p>
+---
 
-![Image](https://raw.githubusercontent.com/UsamaSarwar/flutter/main/pub/telegram/assets/contribution.svg)
+### 📈 GitHub Stats
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jamxon&show_icons=true&layout=compact" alt="jamxon" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=jamxon&show_icons=true" alt="jamxon" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=jamxon" alt="jamxon" /></p>
+
+---
+
+### 📫 Contact
+**Email:** aliyevjamkhan499@gmail.com  
