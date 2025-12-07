@@ -28,7 +28,6 @@
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
@@ -49,8 +48,6 @@
 
 ### 📈 GitHub Stats
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jamxon&show_icons=true&layout=compact" alt="jamxon" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=jamxon&show_icons=true" alt="jamxon" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=jamxon" alt="jamxon" /></p>
 
 ---
