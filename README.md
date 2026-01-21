@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jamxon</h1>
+<h1 align="center">Hi 👋, I'm Jamshidbek</h1>
 <h3 align="center">Backend Developer | PHP (Laravel) | ERP Systems</h3>
 
 🔹 Passionate backend engineer focused on building scalable business solutions.  
